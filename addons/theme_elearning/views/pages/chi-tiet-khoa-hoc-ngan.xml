@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="product_page_template" name="Product Detail Page">
+        <t t-call="website.layout">
+            <div class="container">
+                <h1><t t-esc="product.name"/></h1>
+                <img t-att-src="'/web/image/product.template/' + str(product.id) + '/image_1024'" class="img-fluid" />
+                <p>Lịch học: <strong><t t-esc="product.get_study_days_label()"/></strong></p>
+                <p>Trình độ: <strong><t t-esc="product.get_level_label()"/></strong></p>
+                <p>Giờ học: <strong><t t-esc="product.get_study_time_label()"/></strong></p>
+            </div>
+        </t>
+    </template>
+</odoo>

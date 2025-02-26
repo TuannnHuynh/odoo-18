@@ -9,7 +9,7 @@
                         <div class="banner-first">
                             <div class="row m-0">
                                 <img class="col-12 col-md-6 p-0"
-                                    src="https://service.keyframe.vn/uploads/filecloud/2025/January/2/10487-banner-uu-dai-tet-2025-1280x720.png"
+                                    src="/theme_elearning/static/src/img/home/banner.png"
                                     alt=""/>
                                 <div class="banner-item col-12 py-4 py-md-0 col-md-6 p-0">
                                     <div class="content">
@@ -29,7 +29,7 @@
                         <div class="banner-second">
                             <div class="row m-0">
                                 <img class="col-12 col-md-6 p-0"
-                                    src="https://service.keyframe.vn/uploads/filecloud/2024/October/14/9916-Keyframe%20Kids%20Art-Roadmap5-1920x1080-R02-2024.jpg"
+                                    src="/theme_elearning/static/src/img/home/banner-1.jpg"
                                     alt=""/>
                                 <div class="banner-item col-12 py-4 py-md-0 col-md-6 p-0">
                                     <div class="content">
@@ -42,7 +42,7 @@
                         <div class="banner-third">
                             <div class="row m-0">
                                 <img class="col-12 col-md-6 p-0"
-                                    src="https://service.keyframe.vn/uploads/filecloud/2022/October/5/3254-339661664970732-1664970732.jpg"
+                                    src="/theme_elearning/static/src/img/home/banner-2.jpg"
                                     alt=""/>
                                 <div class="banner-item col-12 py-4 py-md-0 col-md-6 p-0">
                                     <div class="content">
@@ -56,7 +56,7 @@
                         <div class="banner-fourth">
                             <div class="row m-0">
                                 <img class="col-12 col-md-6 p-0"
-                                    src="https://service.keyframe.vn/uploads/filecloud/2023/March/10/4553-CTH01-Banner-Graphic%20Designer-R03-10032023-1280x720.jpg"
+                                    src="/theme_elearning/static/src/img/home/banner-3.jpg"
                                     alt=""/>
                                 <div class="banner-item col-12 py-4 py-md-0 col-md-6 p-0">
                                     <div class="content">
@@ -73,7 +73,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="card col-md-3">
-                                <img src="https://service.keyframe.vn/uploads/filecloud/2023/February/9/4268-855641675915825-1675915825.png"
+                                <img src="/theme_elearning/static/src/img/home/media.png"
                                     class="card-img-top" alt="..."/>
                                 <div class="card-body">
                                     <h5 class="card-title">Mentor 1:1 dự án portfolio cá nhân</h5>
@@ -82,7 +82,7 @@
                                 </div>
                             </div>
                             <div class="card col-md-3">
-                                <img src="https://service.keyframe.vn/uploads/filecloud/2023/February/9/4268-855641675915825-1675915825.png"
+                                <img src="/theme_elearning/static/src/img/home/media.png"
                                     class="card-img-top" alt="..."/>
                                 <div class="card-body">
                                     <h5 class="card-title">Hỗ trợ thư viện video bài giảng</h5>
@@ -90,7 +90,7 @@
                                 </div>
                             </div>
                             <div class="card col-md-3">
-                                <img src="https://service.keyframe.vn/uploads/filecloud/2023/February/9/4268-855641675915825-1675915825.png"
+                                <img src="/theme_elearning/static/src/img/home/media.png"
                                     class="card-img-top" alt="..."/>
                                 <div class="card-body">
                                     <h5 class="card-title">Học tại HCM/ Hà Nội/ Trực tuyến Zoom</h5>
@@ -99,7 +99,7 @@
                                 </div>
                             </div>
                             <div class="card col-md-3">
-                                <img src="https://service.keyframe.vn/uploads/filecloud/2023/February/9/4268-855641675915825-1675915825.png"
+                                <img src="/theme_elearning/static/src/img/home/media.png"
                                     class="card-img-top" alt="..."/>
                                 <div class="card-body">
                                     <h5 class="card-title">Bảo lưu khoá học &amp; hoàn học phí
@@ -121,7 +121,7 @@
                         <div class="row course-list">
                             <div class="card col-md-4">
                                 <div class="card-content">
-                                    <img src="https://service.keyframe.vn/uploads/filecloud/2021/August/11/1318-413971628617095-1628617095.jpg"
+                                    <img src="/theme_elearning/static/src/img/home/course.jpg"
                                         class="card-img-top" alt="..."/>
                                     <div class="card-body">
                                         <h5 class="card-title">Khóa học 2D Animation &amp; Motion Graphics Basic to Intermediate
@@ -141,7 +141,7 @@
                             </div>
                             <div class="card col-md-4">
                                 <div class="card-content">
-                                    <img src="https://service.keyframe.vn/uploads/filecloud/2018/February/8/22-958191518079376-1518079376.jpg"
+                                    <img src="/theme_elearning/static/src/img/home/course.jpg"
                                         class="card-img-top" alt="..."/>
                                     <div class="card-body">
                                         <h5 class="card-title">Khoá học Photoshop Basic</h5>
@@ -160,7 +160,7 @@
                             </div>
                             <div class="card col-md-4">
                                 <div class="card-content">
-                                    <img src="https://service.keyframe.vn/uploads/filecloud/2023/October/27/7331-MD056-Banner-UXUI%20Product%20Design-R04-1280x720.jpg"
+                                    <img src="/theme_elearning/static/src/img/home/course.jpg"
                                         class="card-img-top" alt="..."/>
                                     <div class="card-body">
                                         <h5 class="card-title">Khóa Học Thiết Kế UXUI Product Design</h5>
@@ -195,7 +195,7 @@
                                 <div class="card-content card-animate">
                                     <span class="view"><i class="fa-regular fa-eye"></i>502</span>
                                     <a href="">
-                                        <img src="https://service.keyframe.vn/uploads/filecloud/2024/July/17/9249-MD21-24RK77H-Tieng%20Da%20Loi%20Thua-Thanh%20Danh.jpg"
+                                        <img src="/theme_elearning/static/src/img/home/gallary.jpg"
                                             class="card-img-top" alt="..."/>
                                     </a>
                                     <div class="card-body">
@@ -209,7 +209,7 @@
                                 <div class="card-content card-animate">
                                     <span class="view"><i class="fa-regular fa-eye"></i>24</span>
                                     <a href="">
-                                        <img src="https://service.keyframe.vn/uploads/filecloud/2024/December/16/10381-MD23-24RK111N-Fried%20Egg-Do%20Anh%20Diep.jpg"
+                                        <img src="/theme_elearning/static/src/img/home/gallary.jpg"
                                             class="card-img-top" alt="..."/>
                                     </a>
                                     <div class="card-body">
@@ -223,7 +223,7 @@
                                 <div class="card-content card-animate">
                                     <span class="view"><i class="fa-regular fa-eye"></i>164</span>
                                     <a href="">
-                                        <img src="https://service.keyframe.vn/uploads/filecloud/2024/July/23/9320-MD052-24RK06L-OSIMS-Luong%20Kieu%20Thien.jpg"
+                                        <img src="/theme_elearning/static/src/img/home/gallary.jpg"
                                             class="card-img-top" alt="..."/>
                                     </a>
                                     <div class="card-body">
@@ -237,7 +237,7 @@
                                 <div class="card-content card-animate">
                                     <span class="view"><i class="fa-regular fa-eye"></i>206</span>
                                     <a href="">
-                                        <img src="https://service.keyframe.vn/uploads/filecloud/2024/July/15/9235-MD048-24RK12D-Guan%20Yin%20Sha%20Xin-Huynh%20Minh.jpg"
+                                        <img src="/theme_elearning/static/src/img/home/gallary.jpg"
                                             class="card-img-top" alt="..."/>
                                     </a>
                                     <div class="card-body">
@@ -266,7 +266,7 @@
                             <div class="comment-list">
                                 <div class="comment-item">
                                     <img class="comment-avatar"
-                                        src="https://service.keyframe.vn/uploads/filecloud/2025/January/15/10587-Tran%20Ngoc%20Nu.jpg"
+                                        src="/theme_elearning/static/src/img/home/review.jpg"
                                         alt=""/>
                                     <div class="comment-content">
                                         <div class="comment-by">
@@ -288,7 +288,7 @@
                                 </div>
                                 <div class="comment-item">
                                     <img class="comment-avatar"
-                                        src="https://service.keyframe.vn/uploads/filecloud/2025/January/15/10588-Huynh%20Son.jpg"
+                                        src="/theme_elearning/static/src/img/home/review.jpg"
                                         alt=""/>
                                     <div class="comment-content">
                                         <div class="comment-by">
@@ -310,7 +310,7 @@
                                 </div>
                                 <div class="comment-item">
                                     <img class="comment-avatar"
-                                        src="https://service.keyframe.vn/admin/photoavatar/k/a6d53c/3ffb7/180.jpg" alt=""/>
+                                        src="/theme_elearning/static/src/img/home/review.jpg" alt=""/>
                                     <div class="comment-content">
                                         <div class="comment-by">
                                             Dương Anh Kỳ - <span>24K114CN</span>
@@ -333,7 +333,7 @@
                                 </div>
                                 <div class="comment-item">
                                     <img class="comment-avatar"
-                                        src="https://service.keyframe.vn/admin/photoavatar/t/d0633f/58a3e/180.jpg" alt=""/>
+                                        src="/theme_elearning/static/src/img/home/review.jpg" alt=""/>
                                     <div class="comment-content">
                                         <div class="comment-by">
                                             Lê Quốc Thái - <span>24K177L</span>
@@ -357,7 +357,7 @@
                                 </div>
                                 <div class="comment-item">
                                     <img class="comment-avatar"
-                                        src="https://service.keyframe.vn/admin/photoavatar/t/d0633f/58a3e/180.jpg" alt=""/>
+                                        src="/theme_elearning/static/src/img/home/review.jpg" alt=""/>
                                     <div class="comment-content">
                                         <div class="comment-by">
                                             Nguyễn Quỳnh Trang - <span>24RK62M - Remote</span>
@@ -408,7 +408,7 @@
                             <div class="col-md-4">
                                 <div class="card card-animate">
                                     <a href="">
-                                        <img src="https://service.keyframe.vn/uploads/filecloud/2023/August/2/6347-Hoc-vien-keyframe-review-thu-vien-video-bai-hoc-keyframe-1080x1080.jpg"
+                                        <img src="/theme_elearning/static/src/img/home/blog.jpg"
                                             class="card-img-top" alt="..."/>
                                     </a>
                                     <div class="card-body">
@@ -427,7 +427,7 @@
                             <div class="col-md-4">
                                 <div class="card card-animate">
                                     <a href="">
-                                        <img src="https://service.keyframe.vn/uploads/filecloud/2023/June/3/5364-16-bai-uxui-thieu-nhi-danh-cho-nguoi-moi-hoc.jpeg"
+                                        <img src="/theme_elearning/static/src/img/home/blog.jpg"
                                             class="card-img-top" alt="..."/>
                                     </a>
                                     <div class="card-body">
@@ -446,7 +446,7 @@
                             <div class="col-md-4">
                                 <div class="card card-animate">
                                     <a href="">
-                                        <img src="https://service.keyframe.vn/uploads/filecloud/2025/January/2/10488-banner-uu-dai-tet-2025-1280x720.png"
+                                        <img src="/theme_elearning/static/src/img/home/blog.jpg"
                                             class="card-img-top" alt="..."/>
                                     </a>
                                     <div class="card-body">
