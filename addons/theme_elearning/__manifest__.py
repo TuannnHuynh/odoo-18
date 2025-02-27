@@ -23,8 +23,10 @@
         'web.assets_frontend':[
             'theme_elearning/static/src/scss/rest.scss',
             'theme_elearning/static/src/scss/course_short.scss',
+            'theme_elearning/static/src/scss/course_detail_short.scss',
             'theme_elearning/static/src/scss/main.scss',
             'theme_elearning/static/src/js/product_widget.js',
+            'theme_elearning/static/src/js/course_detail_short.js',
             "web/static/src/libs/fontawesome/css/font-awesome.css",
         ],
         'point_of_sale._assets_pos': [

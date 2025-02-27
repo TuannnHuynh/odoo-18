@@ -10,6 +10,7 @@
 
     'depends': ["website","product","website_sale"],
     'data': [
+        'security/product_template_security.xml',
         'views/product_template.xml',
     ],
     'installable': True,
